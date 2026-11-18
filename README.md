@@ -48,20 +48,14 @@ De originele projectcode staat in een aparte privé-repository. Deze repo is bed
 
 ## Screenshots
 
-*Schermafbeeldingen van de lokale MVP. Projectgegevens en locaties zijn voor deze openbare versie aangepast naar voorbeelden.*
+<img width="1280" height="720" alt="download" src="https://github.com/user-attachments/assets/7b3cdd44-8990-4b94-9b96-5ffbd9c35acc" />
+
 
 ### 1. Nieuwe aanvraag
 
-![Soort RESA-aanvraag kiezen](screenshots/01-aanvraagtype.png)
-
 ### 2. Projectgegevens en werkplekken
-
-![Projectgegevens en werkplekken invullen](screenshots/02-projectgegevens.png)
 
 ### 3. Resourceplanning
 
-![Resources plannen per dagdeel](screenshots/03-resourceplanning.png)
-
 ### 4. Controleren en indienen
 
-![Aanvraag controleren en indienen](screenshots/04-controleren-indienen.png)
